@@ -1,7 +1,7 @@
 # bifang-app-demo-src
 
-Ìá¹©python flask, go, java springboot, node.jsµÄ×î¼òµ¥µÄhelloworld¼¶Ô´Âëweb·şÎñ¡£
-python flask·ÃÎÊ---http://{ip}:5000
-go·ÃÎÊ---http://{ip}:9090
-java springboot·ÃÎÊ---http://{ip}:8080
-node.js·ÃÎÊ---http://{ip}:9000
+## æä¾›python flask, go, java springboot, node.jsçš„æœ€ç®€å•çš„helloworldçº§æºç webæœåŠ¡ã€‚
+## python flaskè®¿é—®---http://{ip}:5000
+## goè®¿é—®---http://{ip}:9090
+## java springbootè®¿é—®---http://{ip}:8080
+## node.jsè®¿é—®---http://{ip}:9000
