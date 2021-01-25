@@ -144,7 +144,7 @@ stop_status() {
 }
 
 health_check() {
-	echo "APP_NAME: $APP_NAME is health."
+	echo "APP_NAME: $APP_NAME is success health."
 }
    
 case "$ACTION" in
