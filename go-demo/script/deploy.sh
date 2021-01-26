@@ -6,14 +6,14 @@ APP_NAME=$1
 RELEASE=$2
 # env环境参数
 ENV=$3
-# action服务启停及部署参数
-ACTION=$4
 # app压缩包名参数
-ZIP_PACKAGE_NAME=$5
+ZIP_PACKAGE_NAME=$4
 # app压缩包的网络下载地址
-ZIP_PACKAGE_URL=$6
+ZIP_PACKAGE_URL=$5
 # port服务端口参数
-PORT=$7
+PORT=$6
+# action服务启停及部署参数
+ACTION=$7
 
 # app可执行文件名或包名
 PACKAGE_NAME="go-demo"
