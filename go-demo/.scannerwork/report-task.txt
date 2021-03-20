@@ -1,6 +1,0 @@
-projectKey=go-demo
-serverUrl=http://192.168.1.212:19000
-serverVersion=8.6.0.39681
-dashboardUrl=http://192.168.1.212:19000/dashboard?id=go-demo
-ceTaskId=AXcyu8xFIn9kuHHEvyym
-ceTaskUrl=http://192.168.1.212:19000/api/ce/task?id=AXcyu8xFIn9kuHHEvyym
